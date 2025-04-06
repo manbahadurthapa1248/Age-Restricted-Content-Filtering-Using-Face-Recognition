@@ -1,6 +1,6 @@
 ## 🔞**Age-Restricted Content Filtering Using Face Recognition**  
 
-🚀 **AgeGuard** is a smart **Chrome extension** designed to protect users, especially children, from accessing **adult content, explicit websites, and NSFW material**. It ensures a **safe browsing experience** by automatically blocking **inappropriate sites** and filtering explicit content based on domain names, keywords, and page content.  
+🚀 This is a smart **Chrome extension** designed to protect users, especially children, from accessing **adult content, explicit websites, and NSFW material**. It ensures a **safe browsing experience** by automatically blocking **inappropriate sites** and filtering explicit content based on domain names, keywords, and page content.  
 
 🔒 **Ensure digital safety for kids, students, and workplaces with AgeGuard!**  
 
@@ -32,7 +32,7 @@
 
 1. **Download or clone** this repository:  
    ```sh
-   git clone https://github.com/meliodas-sama1248/AgeGuard-Advanced-Web-Filtering-System.git
+   git clone https://github.com/meliodas-sama1248/Age-Restricted Content Filtering Using Face Recognition.git
    ```  
 2. Open **Google Chrome** and navigate to:  
    ```
