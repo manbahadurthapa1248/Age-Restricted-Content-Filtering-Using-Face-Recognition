@@ -32,7 +32,7 @@
 
 1. **Download or clone** this repository:  
    ```sh
-   git clone https://github.com/meliodas-sama1248/Age-Restricted Content Filtering Using Face Recognition.git
+   git clone https://github.com/manbahadurthapa1248/Age-Restricted Content Filtering Using Face Recognition.git
    ```  
 2. Open **Google Chrome** and navigate to:  
    ```
